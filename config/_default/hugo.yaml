@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Malte Ruehlemann, Dr. rer. nat.'
 # Website URL
-baseURL = "https://ruehlemann.io/"
+baseURL: 'https://ruehlemann.io/'
 
 ############################
 ## LANGUAGE
