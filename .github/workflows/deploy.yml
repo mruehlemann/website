@@ -1,83 +1,106 @@
-name: Deploy website to GitHub Pages
-
+name: Build and deploy
 on:
-  # Trigger the workflow every time you push to the `main` branch
   push:
-    branches: ['main']
-  # Allows you to run this workflow manually from the Actions tab on GitHub
+    branches:
+      - main
   workflow_dispatch:
-
-# Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
-  group: 'pages'
+  group: pages
   cancel-in-progress: false
-
+defaults:
+  run:
+    shell: bash
 jobs:
-  # Check deployment configuration
-  config:
-    if: github.repository_owner != 'HugoBlox'
-    runs-on: ubuntu-latest
-    outputs:
-      deploy-host: ${{ steps.check.outputs.host }}
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v6
-      with:
-        sparse-checkout: hugoblox.yaml
-        sparse-checkout-cone-mode: false
-
-    - name: Check deploy host
-      id: check
-      run: |
-        # Install pinned yq version for robust YAML parsing
-        YQ_VERSION="v4.44.1"
-        if ! wget -q --tries=3 --waitretry=1 -O /tmp/yq \
-          "https://github.com/mikefarah/yq/releases/download/${YQ_VERSION}/yq_linux_amd64"; then
-          echo "::error::Failed to download yq"
-          exit 1
-        fi
-        sudo mv /tmp/yq /usr/local/bin/yq
-        sudo chmod +x /usr/local/bin/yq
-        
-        # Read deploy.host from hugoblox.yaml, default to github-pages
-        HOST=$(yq '.deploy.host // ""' hugoblox.yaml 2>/dev/null | grep -v '^null$' || true)
-        HOST=${HOST:-github-pages}
-        
-        # Validate known hosts
-        if [[ ! "$HOST" =~ ^(github-pages|netlify|vercel|cloudflare|none)$ ]]; then
-          echo "::warning::Unknown deploy host '$HOST', defaulting to github-pages"
-          HOST="github-pages"
-        fi
-        
-        echo "host=$HOST" >> $GITHUB_OUTPUT
-        echo "Deployment target: $HOST"
-
-  # Build website using reusable workflow (always runs for CI)
   build:
-    needs: config
-    if: github.repository_owner != 'HugoBlox'
-    uses: ./.github/workflows/build.yml
-    secrets: inherit
-
-  # Deploy website to GitHub Pages hosting (only if configured)
+    runs-on: ubuntu-latest
+    env:
+      DART_SASS_VERSION: 1.99.0
+      GO_VERSION: 1.26.1
+      HUGO_VERSION: 0.160.0
+      NODE_VERSION: 24.14.1
+      TZ: Europe/Oslo
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Setup Go
+        uses: actions/setup-go@v6
+        with:
+          go-version: ${{ env.GO_VERSION }}
+          cache: false
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
+      - name: Create directory for user-specific executable files
+        run: |
+          mkdir -p "${HOME}/.local"
+      - name: Install Dart Sass
+        run: |
+          curl -sLJO "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          tar -C "${HOME}/.local" -xf "dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          rm "dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
+      - name: Install Hugo
+        run: |
+          curl -sLJO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          mkdir "${HOME}/.local/hugo"
+          tar -C "${HOME}/.local/hugo" -xf "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          rm "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
+          echo "${HOME}/.local/hugo" >> "${GITHUB_PATH}"
+      - name: Verify installations
+        run: |
+          echo "Dart Sass: $(sass --version)"
+          echo "Go: $(go version)"
+          echo "Hugo: $(hugo version)"
+          echo "Node.js: $(node --version)"
+      - name: Install Node.js dependencies
+        run: |
+          [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
+      - name: Configure Git
+        run: |
+          git config core.quotepath false
+      - name: Cache restore
+        id: cache-restore
+        uses: actions/cache/restore@v5
+        with:
+          path: ${{ runner.temp }}/hugo_cache
+          key: hugo-${{ github.run_id }}
+          restore-keys:
+            hugo-
+      - name: Build the site
+        run: |
+          hugo build \
+            --gc \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --cacheDir "${{ runner.temp }}/hugo_cache"
+      - name: Cache save
+        id: cache-save
+        uses: actions/cache/save@v5
+        with:
+          path: ${{ runner.temp }}/hugo_cache
+          key: ${{ steps.cache-restore.outputs.cache-primary-key }}
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./public
   deploy:
-    needs: [config, build]
-    if: needs.config.outputs.deploy-host == 'github-pages'
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
-    permissions:
-      pages: write # to deploy to Pages
-      id-token: write # to verify the deployment originates from an appropriate source
-    # Deploy to the github-pages environment
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    needs: build
     steps:
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
