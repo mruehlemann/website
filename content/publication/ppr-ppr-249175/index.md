@@ -1,7 +1,7 @@
 ---
 title: Genome-wide analysis of 944,133 individuals provides insights into the etiology
   of hemorrhoidal disease
-date: -01-01
+date: 2020-01-01
 draft: true
 publishDate: '2026-04-15T13:39:14.140897Z'
 authors:
@@ -11,7 +11,7 @@ authors:
 - Cossais F
 - Burmeister G
 - Mayr G
-- Jørgensen IF
+- J??rgensen IF
 - Teder-Laving M
 - Skogholt AH
 - Banasik K
