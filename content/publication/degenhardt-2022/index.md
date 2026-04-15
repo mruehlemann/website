@@ -1,0 +1,346 @@
+---
+title: Detailed stratified GWAS analysis for severe COVID-19 in four European populations
+date: '2022-07-01'
+draft: true
+publishDate: '2026-04-15T13:39:08.212731Z'
+authors:
+- Frauke Degenhardt
+- David Ellinghaus
+- Simonas Juzenas
+- Jon Lerga-Jaso
+- Mareike Wendorff
+- Douglas Maya-Miles
+- Florian Uellendahl-Werth
+- Hesham ElAbd
+- Malte C Rühlemann
+- Jatin Arora
+- Onur Özer
+- Ole Bernt Lenning
+- Ronny Myhre
+- May Sissel Vadla
+- Eike M Wacker
+- Lars Wienbrandt
+- Aaron Blandino Ortiz
+- Adolfo de Salazar
+- Adolfo Garrido Chercoles
+- Adriana Palom
+- Agustín Ruiz
+- Alba-Estela Garcia-Fernandez
+- Albert Blanco-Grau
+- Alberto Mantovani
+- Alberto Zanella
+- Aleksander Rygh Holten
+- Alena Mayer
+- Alessandra Bandera
+- Alessandro Cherubini
+- Alessandro Protti
+- Alessio Aghemo
+- Alessio Gerussi
+- Alfredo Ramirez
+- Alice Braun
+- Almut Nebel
+- Ana Barreira
+- Ana Lleo
+- Ana Teles
+- Anders Benjamin Kildal
+- Andrea Biondi
+- Andrea Caballero-Garralda
+- Andrea Ganna
+- Andrea Gori
+- Andreas Glück
+- Andreas Lind
+- Anja Tanck
+- Anke Hinney
+- Anna Carreras Nolla
+- Anna Ludovica Fracanzani
+- Anna Peschuck
+- Annalisa Cavallero
+- Anne Ma Dyrhol-Riise
+- Antonella Ruello
+- Antonio Julià
+- Antonio Muscatello
+- Antonio Pesenti
+- Antonio Voza
+- Ariadna Rando-Segura
+- Aurora Solier
+- Axel Schmidt
+- Beatriz Cortes
+- Beatriz Mateos
+- Beatriz Nafria-Jimenez
+- Benedikt Schaefer
+- Björn Jensen
+- Carla Bellinghausen
+- Carlo Maj
+- Carlos Ferrando
+- Carmen de la Horra
+- Carmen Quereda
+- Carsten Skurk
+- Charlotte Thibeault
+- Chiara Scollo
+- Christian Herr
+- Christoph D Spinner
+- Christoph Gassner
+- Christoph Lange
+- Cinzia Hu
+- Cinzia Paccapelo
+- Clara Lehmann
+- Claudio Angelini
+- Claudio Cappadona
+- Clinton Azuure
+- Cristiana Bianco
+- Cristina Cea
+- Cristina Sancho
+- Dag Arne Lihaug Hoff
+- Daniela Galimberti
+- Daniele Prati
+- David Haschka
+- David Jiménez
+- David Pestaña
+- David Toapanta
+- Eduardo Muñiz-Diaz
+- Elena Azzolini
+- Elena Sandoval
+- Eleonora Binatti
+- Elio Scarpini
+- Elisa T Helbig
+- Elisabetta Casalone
+- Eloisa Urrechaga
+- Elvezia Maria Paraboschi
+- Emanuele Pontali
+- Enric Reverter
+- Enrique J Calderón
+- Enrique Navas
+- Erik Solligård
+- Ernesto Contro
+- Eunate Arana-Arri
+- Fátima Aziz
+- Federico Garcia
+- Félix García Sánchez
+- Ferruccio Ceriotti
+- Filippo Martinelli-Boneschi
+- Flora Peyvandi
+- Florian Kurth
+- Francesco Blasi
+- Francesco Malvestiti
+- Francisco J Medrano
+- Francisco Mesonero
+- Francisco Rodriguez-Frias
+- Frank Hanses
+- Fredrik Müller
+- Georg Hemmrich-Stanisak
+- Giacomo Bellani
+- Giacomo Grasselli
+- Gianni Pezzoli
+- Giorgio Costantino
+- Giovanni Albano
+- Giulia Cardamone
+- Giuseppe Bellelli
+- Giuseppe Citerio
+- Giuseppe Foti
+- Giuseppe Lamorte
+- Giuseppe Matullo
+- Guido Baselli
+- Hayato Kurihara
+- Holger Neb
+- Ilaria My
+- Ingo Kurth
+- Isabel Hernández
+- Isabell Pink
+- Itziar de Rojas
+- Iván Galván-Femenia
+- Jan Cato Holter
+- Jan Egil Afset
+- Jan Heyckendorf
+- Jan Kässens
+- Jan Kristian Damås
+- Jan Rybniker
+- Janine Altmüller
+- Javier Ampuero
+- Javier Martín
+- Jeanette Erdmann
+- Jesus M Banales
+- Joan Ramon Badia
+- Joaquin Dopazo
+- Jochen Schneider
+- Jonas Bergan
+- Jordi Barretina
+- Jörn Walter
+- Jose Hernández Quero
+- Josune Goikoetxea
+- Juan Delgado
+- Juan M Guerrero
+- Julia Fazaal
+- Julia Kraft
+- Julia Schröder
+- Kari Risnes
+- Karina Banasik
+- Karl Erik Müller
+- Karoline I Gaede
+- Koldo Garcia-Etxebarria
+- Kristian Tonby
+- Lars Heggelund
+- Laura Izquierdo-Sanchez
+- Laura Rachele Bettini
+- Lauro Sumoy
+- Leif Erik Sander
+- Lena J Lippert
+- Leonardo Terranova
+- Lindokuhle Nkambule
+- Lisa Knopp
+- Lise Tuset Gustad
+- Lucia Garbarino
+- Luigi Santoro
+- Luis Téllez
+- Luisa Roade
+- Mahnoosh Ostadreza
+- Maider Intxausti
+- Manolis Kogevinas
+- Mar Riveiro-Barciela
+- Marc M Berger
+- Marco Schaefer
+- Mari E K Niemi
+- María A Gutiérrez-Stampa
+- Maria Carrabba
+- Maria E Figuera Basso
+- Maria Grazia Valsecchi
+- María Hernandez-Tejero
+- Maria J G T Vehreschild
+- Maria Manunta
+- Marialbert Acosta-Herrera
+- Mariella D’Angiò
+- Marina Baldini
+- Marina Cazzaniga
+- Marit M Grimsrud
+- Markus Cornberg
+- Markus M Nöthen
+- Marta Marquié
+- Massimo Castoldi
+- Mattia Cordioli
+- Maurizio Cecconi
+- Mauro D’Amato
+- Max Augustin
+- Melissa Tomasi
+- Mercè Boada
+- Michael Dreher
+- Michael J Seilmaier
+- Michael Joannidis
+- Michael Wittig
+- Michela Mazzocco
+- Michele Ciccarelli
+- Miguel Rodríguez-Gandía
+- Monica Bocciolone
+- Monica Miozzo
+- Natale Imaz Ayo
+- Natalia Blay
+- Natalia Chueca
+- Nicola Montano
+- Nicole Braun
+- Nicole Ludwig
+- Nikolaus Marx
+- Nilda Martínez
+- Oliver A Cornely
+- Oliver Witzke
+- Orazio Palmieri
+- Paola Faverio
+- Paoletta Preatoni
+- Paolo Bonfanti
+- Paolo Omodei
+- Paolo Tentorio
+- Pedro Castro
+- Pedro M Rodrigues
+- Pedro Pablo España
+- Per Hoffmann
+- Philip Rosenstiel
+- Philipp Schommers
+- Phillip Suwalski
+- Raúl de Pablo
+- Ricard Ferrer
+- Robert Bals
+- Roberta Gualtierotti
+- Rocío Gallego-Durán
+- Rosa Nieto
+- Rossana Carpani
+- Rubén Morilla
+- Salvatore Badalamenti
+- Sammra Haider
+- Sandra Ciesek
+- Sandra May
+- Sara Bombace
+- Sara Marsal
+- Sara Pigazzini
+- Sebastian Klein
+- Serena Pelusi
+- Sibylle Wilfling
+- Silvano Bosari
+- Sonja Volland
+- Søren Brunak
+- Soumya Raychaudhuri
+- Stefan Schreiber
+- Stefanie Heilmann-Heimbach
+- Stefano Aliberti
+- Stephan Ripke
+- Susanne Dudman
+- Tanja Wesse
+- Tenghao Zheng
+- Thomas Bahmer
+- Thomas Eggermann
+- Thomas Illig
+- Thorsten Brenner
+- Tomas Pumarola
+- Torsten Feldt
+- Trine Folseraas
+- Trinidad Gonzalez Cejudo
+- Ulf Landmesser
+- Ulrike Protzer
+- Ute Hehr
+- Valeria Rimoldi
+- Valter Monzani
+- Vegard Skogen
+- Verena Keitel
+- Verena Kopfnagel
+- Vicente Friaza
+- Victor Andrade
+- Victor Moreno
+- Wolfgang Albrecht
+- Wolfgang Peter
+- Wolfgang Poller
+- Xavier Farre
+- Xiaoli Yi
+- Xiaomin Wang
+- Yascha Khodamoradi
+- Zehra Karadeniz
+- Anna Latiano
+- Siegfried Goerg
+- Petra Bacher
+- Philipp Koehler
+- Florian Tran
+- Heinz Zoller
+- Eva C Schulte
+- Bettina Heidecker
+- Kerstin U Ludwig
+- Javier Fernández
+- Manuel Romero-Gómez
+- Agustín Albillos
+- Pietro Invernizzi
+- Maria Buti
+- Stefano Duga
+- Luis Bujanda
+- Johannes R Hov
+- Tobias L Lenz
+- Rosanna Asselta
+- Rafael de Cid
+- Luca Valenti
+- Tom H Karlsen
+- Mario Cáceres
+- Andre Franke
+publication_types:
+- '2'
+abstract: ''
+featured: false
+publication: '*Human Molecular Genetics*'
+doi: 10.1093/hmg/ddac158
+links:
+- name: URL
+  url: http://dx.doi.org/10.1093/HMG/DDAC158
+---
+
