@@ -2,7 +2,6 @@
 title: Ecology impacts the decrease of Spirochaetes and Prevotella in the fecal gut
   microbiota of urban humans
 date: '2021-10-01'
-draft: true
 publishDate: '2026-04-15T13:39:11.131768Z'
 authors:
 - Louise B. Thingholm

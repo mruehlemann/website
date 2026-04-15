@@ -1,9 +1,5 @@
 ---
 title: Faecal microbiota profiles as diagnostic biomarkers in primary sclerosing cholangitis
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2016-05-01'
 publishDate: '2026-04-15T13:39:22.713466Z'
 authors:

@@ -2,7 +2,6 @@
 title: Large-scale association analyses identify host factors influencing human gut
   microbiome composition
 date: '2021-01-01'
-draft: true
 publishDate: '2026-04-15T13:39:12.323289Z'
 authors:
 - Alexander Kurilshikov

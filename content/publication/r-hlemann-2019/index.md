@@ -1,10 +1,6 @@
 ---
 title: Gut mycobiome of primary sclerosing cholangitis patients is characterised by
   an increase ofTrichocladium griseumandCandidaspecies
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2019-10-01'
 publishDate: '2026-04-15T13:39:16.638676Z'
 authors:

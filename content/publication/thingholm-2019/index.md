@@ -1,10 +1,6 @@
 ---
 title: Obese Individuals with and without Type 2 Diabetes Show Different Gut Microbial
   Functional Capacity and Composition
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2019-08-01'
 publishDate: '2026-04-15T13:39:18.910670Z'
 authors:

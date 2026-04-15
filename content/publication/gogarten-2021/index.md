@@ -1,7 +1,6 @@
 ---
 title: Primate phageomes are structured by superhost phylogeny and environment
 date: '2021-04-01'
-draft: true
 publishDate: '2026-04-15T13:39:13.119687Z'
 authors:
 - Jan F. Gogarten

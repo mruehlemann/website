@@ -2,7 +2,6 @@
 title: Genome-wide association study in 8,956 German individuals identifies influence
   of ABO histo-blood groups on gut microbiome
 date: '2021-01-01'
-draft: true
 publishDate: '2026-04-15T13:39:11.836121Z'
 authors:
 - Malte Christoph Rühlemann

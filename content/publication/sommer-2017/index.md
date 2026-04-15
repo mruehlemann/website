@@ -1,14 +1,11 @@
 ---
 title: 'Microbiomarkers in inflammatory bowel diseases: caveats come with caviar'
-build:
-  render: never
-  list: never
-  publishResources: false
+draft: true
 date: '2017-07-01'
 publishDate: '2026-04-15T13:39:23.713512Z'
 authors:
-- Felix Sommer
-- Malte Christoph Rühlemann
+- Felix Sommer*
+- Malte Christoph Rühlemann*
 - Corinna Bang
 - Marc Höppner
 - Ateequr Rehman

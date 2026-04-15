@@ -2,7 +2,6 @@
 title: Host genetic factors related to innate immunity, environmental sensing and
   cellular functions are associated with human skin microbiota
 date: '2022-10-01'
-draft: true
 publishDate: '2026-04-15T13:39:08.696552Z'
 authors:
 - Lucas Moitinho-Silva

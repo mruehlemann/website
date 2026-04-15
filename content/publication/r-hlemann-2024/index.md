@@ -1,7 +1,6 @@
 ---
 title: Functional host-specific adaptation of the intestinal microbiome in hominids
 date: '2024-01-01'
-draft: true
 publishDate: '2026-04-15T13:39:05.473877Z'
 authors:
 - M. C. Rühlemann
@@ -25,7 +24,7 @@ authors:
 publication_types:
 - '2'
 abstract: ''
-featured: false
+featured: true
 publication: '*Nature Communications*'
 doi: 10.1038/s41467-023-44636-7
 links:

@@ -1,9 +1,6 @@
 ---
 title: Genomewide Association Study of Severe Covid-19 with Respiratory Failure
-build:
-  render: never
-  list: never
-  publishResources: false
+
 date: '2020-10-01'
 publishDate: '2026-04-15T13:39:16.395835Z'
 publication_types:

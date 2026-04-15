@@ -1,15 +1,11 @@
 ---
 title: Comparative analysis of amplicon and metagenomic sequencing methods reveals
   key features in the evolution of animal metaorganisms
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2019-09-01'
 publishDate: '2026-04-15T13:39:17.397191Z'
 authors:
-- Philipp Rausch
-- Malte Rühlemann
+- Philipp Rausch*
+- Malte Rühlemann*
 - Britt M. Hermes
 - Shauni Doms
 - Tal Dagan

@@ -1,10 +1,6 @@
 ---
 title: Application of the distance-based F test in an mGWAS investigating β diversity
   of intestinal microbiota identifies variants in SLC9A8 (NHE8) and 3 other loci
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2017-08-01'
 publishDate: '2026-04-15T13:39:19.689174Z'
 authors:

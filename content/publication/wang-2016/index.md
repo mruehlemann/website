@@ -1,10 +1,6 @@
 ---
 title: Genome-wide association analysis identifies variation in vitamin D receptor
   and other host factors influencing the gut microbiota
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2016-10-01'
 publishDate: '2026-04-15T13:39:24.974070Z'
 authors:

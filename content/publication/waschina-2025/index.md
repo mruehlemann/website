@@ -1,8 +1,8 @@
 ---
 title: Bacterial metabolite patterns of infants receiving multi-strain probiotics
   and risk of late-onset sepsis
-date: '2025-11-01'
 draft: true
+date: '2025-11-01'
 publishDate: '2026-04-15T13:39:02.891140Z'
 authors:
 - Silvio Waschina

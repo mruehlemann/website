@@ -2,11 +2,10 @@
 title: Industrialization drives convergent microbial and physiological shifts in the
   human metaorganism
 date: '2025-10-01'
-draft: true
 publishDate: '2026-04-15T13:39:03.847108Z'
 authors:
-- Mathilde Poyet
-- Malte Rühlemann
+- Mathilde Poyet*
+- Malte Rühlemann*
 - Ana P. Schaan
 - Yue Ma
 - Lucas Moitinho-Silva
@@ -74,7 +73,7 @@ authors:
 publication_types:
 - '2'
 abstract: ''
-featured: false
+featured: true
 publication: '*openRxiv*'
 doi: 10.1101/2025.10.20.683358
 links:

@@ -1,7 +1,6 @@
 ---
 title: '<tt>MAGScoT</tt>: a fast, lightweight and accurate bin-refinement tool'
 date: '2022-10-01'
-draft: true
 publishDate: '2026-04-15T13:39:09.898264Z'
 authors:
 - Malte Christoph Rühlemann
