@@ -2,10 +2,6 @@
 title: '1053 Bloom of Fecal Megamonas After a 4 Week High Oral Fructose Challenge
   Disturbs Energy and Lipid Metabolism: Linking Diet to Microbiota, Bile Acid and
   Host Metabolism Alterations'
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2016-04-01'
 publishDate: '2026-04-15T13:39:24.723717Z'
 authors:

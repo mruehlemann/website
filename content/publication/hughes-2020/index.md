@@ -1,10 +1,6 @@
 ---
 title: Genome-wide associations of human gut microbiome variation and implications
   for causal inference analyses
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2020-06-01'
 publishDate: '2026-04-15T13:39:16.136906Z'
 authors:
@@ -28,6 +24,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
+tag:
+- key-publication
 publication: '*Nature Microbiology*'
 doi: 10.1038/s41564-020-0743-8
 links:

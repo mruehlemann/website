@@ -1,10 +1,6 @@
 ---
 title: Helicobacter pylori infection associates with fecal microbiota composition
   and diversity
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2019-12-01'
 publishDate: '2026-04-15T13:39:17.124685Z'
 authors:

@@ -1,9 +1,5 @@
 ---
 title: Heart Failure is Associated with Depletion of Core Intestinal Microbiota
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2017-04-01'
 publishDate: '2026-04-15T13:39:23.215864Z'
 authors:

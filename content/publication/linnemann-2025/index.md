@@ -2,7 +2,6 @@
 title: The C-type lectin receptor MINCLE interferes with eosinophil function and protective
   intestinal immunity in Strongyloides ratti-infected mice
 date: '2025-02-01'
-draft: true
 publishDate: '2026-04-15T13:39:04.312081Z'
 authors:
 - Lara Linnemann

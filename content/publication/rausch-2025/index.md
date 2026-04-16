@@ -2,7 +2,6 @@
 title: First insights into microbial changes within an Inflammatory Bowel Disease
   Family Cohort study
 date: '2025-10-01'
-draft: true
 publishDate: '2026-04-15T13:39:03.600281Z'
 authors:
 - Philipp Rausch

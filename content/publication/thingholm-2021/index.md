@@ -22,6 +22,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
+tags:
+- key-publications
 publication: '*BMC Microbiology*'
 doi: 10.1186/s12866-021-02337-5
 links:

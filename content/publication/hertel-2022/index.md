@@ -3,7 +3,6 @@ title: NMR Metabolomics Reveal Urine Markers of Microbiome Diversity and Identif
   Benzoate Metabolism as a Mediator between High Microbial Alpha Diversity and Metabolic
   Health
 date: '2022-03-01'
-draft: true
 publishDate: '2026-04-15T13:39:10.137149Z'
 authors:
 - Johannes Hertel

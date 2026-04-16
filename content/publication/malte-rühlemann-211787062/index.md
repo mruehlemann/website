@@ -1,10 +1,6 @@
 ---
 title: The faecal microbiome of patients with primary sclerosing cholangitis has a
   characteristic signature across different geographic regions
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2018-01-01'
 publishDate: '2026-04-15T13:39:21.966019Z'
 authors:

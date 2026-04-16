@@ -33,6 +33,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
+tags:
+- key-publication
 publication: '*Cell Host &amp; Microbe*'
 doi: 10.1016/j.chom.2019.07.004
 links:

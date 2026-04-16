@@ -2,7 +2,6 @@
 title: Application of Mendelian randomization to explore the causal role of the human
   gut microbiome in colorectal cancer
 date: '2023-04-01'
-draft: true
 publishDate: '2026-04-15T13:39:06.714743Z'
 authors:
 - Charlie Hatcher

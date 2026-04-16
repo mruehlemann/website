@@ -2,7 +2,6 @@
 title: Exocrine Pancreatic Function Modulates Plasma Metabolites Through Changes in
   Gut Microbiota Composition
 date: '2021-01-01'
-draft: true
 publishDate: '2026-04-15T13:39:11.364900Z'
 authors:
 - Maik Pietzner

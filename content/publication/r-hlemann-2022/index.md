@@ -1,5 +1,5 @@
 ---
-title: '<tt>MAGScoT</tt>: a fast, lightweight and accurate bin-refinement tool'
+title: 'MAGScoT: a fast, lightweight and accurate bin-refinement tool'
 date: '2022-10-01'
 publishDate: '2026-04-15T13:39:09.898264Z'
 authors:
@@ -13,6 +13,8 @@ abstract: ''
 featured: false
 publication: '*Bioinformatics*'
 doi: 10.1093/bioinformatics/btac694
+tags:
+- key-publication
 links:
 - name: URL
   url: http://dx.doi.org/10.1093/BIOINFORMATICS/BTAC694

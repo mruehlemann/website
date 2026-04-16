@@ -13,6 +13,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
+tags:
+- key-publication
 publication: '*Gut*'
 doi: 10.1136/gutjnl-2016-312180
 links:

@@ -1,10 +1,6 @@
 ---
 title: Sucrase-isomaltase 15Phe IBS risk variant in relation to dietary carbohydrates
   and faecal microbiota composition
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2018-01-01'
 publishDate: '2026-04-15T13:39:19.420009Z'
 authors:
@@ -21,6 +17,8 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Gut*'
+tags:
+- key-publication
 doi: 10.1136/gutjnl-2017-315841
 links:
 - name: URL

@@ -2,7 +2,6 @@
 title: Carrying asymptomatic gallstones is not associated with changes in intestinal
   microbiota composition and diversity but cholecystectomy with significant dysbiosis
 date: '2021-03-01'
-draft: true
 publishDate: '2026-04-15T13:39:10.650362Z'
 authors:
 - Fabian Frost

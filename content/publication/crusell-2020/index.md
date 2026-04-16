@@ -1,10 +1,6 @@
 ---
 title: Comparative Studies of the Gut Microbiota in the Offspring of Mothers With
   and Without Gestational Diabetes
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2020-10-01'
 publishDate: '2026-04-15T13:39:15.631680Z'
 authors:

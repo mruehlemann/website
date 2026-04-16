@@ -24,6 +24,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
+tags:
+- key-publication
 publication: '*Proceedings of the National Academy of Sciences*'
 doi: 10.1073/pnas.2013535118
 links:

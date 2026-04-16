@@ -1,10 +1,6 @@
 ---
 title: NorUDCA improves liver injury and metabolic situation in mouse models of obesity
   and steatosis
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2017-01-01'
 publishDate: '2026-04-15T13:39:23.966304Z'
 authors:

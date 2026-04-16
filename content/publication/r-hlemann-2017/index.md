@@ -21,6 +21,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
+tag:
+- key-publication
 publication: '*Gut Microbes*'
 doi: 10.1080/19490976.2017.1356979
 links:

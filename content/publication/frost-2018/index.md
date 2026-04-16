@@ -1,10 +1,6 @@
 ---
 title: Functional abdominal pain and discomfort (IBS) is not associated with faecal
   microbiota composition in the general population
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2018-06-01'
 publishDate: '2026-04-15T13:39:17.646142Z'
 authors:

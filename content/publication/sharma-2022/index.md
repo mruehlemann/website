@@ -2,7 +2,6 @@
 title: Linkage analysis identifies novel genetic modifiers of microbiome traits in
   families with inflammatory bowel disease
 date: '2022-02-01'
-draft: true
 publishDate: '2026-04-15T13:39:09.420128Z'
 authors:
 - Arunabh Sharma

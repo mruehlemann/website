@@ -2,7 +2,6 @@
 title: Altered Gut Microbial Metabolism of Essential Nutrients in Primary Sclerosing
   Cholangitis
 date: '2021-04-01'
-draft: true
 publishDate: '2026-04-15T13:39:10.398154Z'
 authors:
 - Martin Kummen

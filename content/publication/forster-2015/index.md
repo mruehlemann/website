@@ -1,10 +1,6 @@
 ---
 title: 'Vy-PER: eliminating false positive detection of virus integration events in
   next generation sequencing data'
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2015-07-01'
 publishDate: '2026-04-15T13:39:26.004880Z'
 authors:

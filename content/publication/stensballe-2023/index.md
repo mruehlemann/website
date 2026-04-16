@@ -2,7 +2,6 @@
 title: Impaired Abcb1a function and red meat in a translational colitis mouse model
   induces inflammation and alters microbiota composition
 date: '2023-07-01'
-draft: true
 publishDate: '2026-04-15T13:39:07.476951Z'
 authors:
 - Allan Stensballe

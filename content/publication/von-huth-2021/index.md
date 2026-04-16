@@ -2,7 +2,6 @@
 title: Intestinal protozoan infections shape fecal bacterial microbiota in children
   from Guinea-Bissau
 date: '2021-03-01'
-draft: true
 publishDate: '2026-04-15T13:39:12.076820Z'
 authors:
 - Sebastian von Huth

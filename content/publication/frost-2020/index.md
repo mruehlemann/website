@@ -3,7 +3,6 @@ title: Long-term instability of the intestinal microbiome is associated with met
   liver disease, low microbiota diversity, diabetes mellitus and impaired exocrine
   pancreatic function
 date: '2020-11-01'
-draft: true
 publishDate: '2026-04-15T13:39:12.562194Z'
 authors:
 - Fabian Frost

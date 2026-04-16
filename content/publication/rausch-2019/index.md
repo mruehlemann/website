@@ -37,6 +37,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
+tags:
+- key-publication
 publication: '*Microbiome*'
 doi: 10.1186/s40168-019-0743-1
 links:

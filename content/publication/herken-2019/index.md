@@ -1,9 +1,5 @@
 ---
 title: Normal gut microbiome in NMDA receptor encephalitis
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2019-11-01'
 publishDate: '2026-04-15T13:39:18.667519Z'
 authors:

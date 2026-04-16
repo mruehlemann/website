@@ -32,6 +32,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
+tags:
+- key-publication
 publication: '*Nature Genetics*'
 doi: 10.1038/s41588-020-00747-1
 links:

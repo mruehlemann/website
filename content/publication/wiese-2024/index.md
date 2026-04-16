@@ -2,7 +2,6 @@
 title: 'Dietary Diversity, Rather Than Quality, Parallels a Reduction in Metabolic
   Syndrome and a Favorable Gut Microbiome: The Dietary Diversity Score'
 date: '2024-11-01'
-draft: true
 publishDate: '2026-04-15T13:39:03.136845Z'
 authors:
 - Mats L. Wiese

@@ -2,7 +2,6 @@
 title: The archaeome in metaorganism research, with a focus on marine models and their
   bacteria–archaea interactions
 date: '2024-02-01'
-draft: true
 publishDate: '2026-04-15T13:39:05.937144Z'
 authors:
 - Avril J. E. von Hoyningen-Huene

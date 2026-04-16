@@ -1,10 +1,7 @@
 ---
 title: Interdisciplinary approach towards a systems medicine toolbox using the example
   of inflammatory diseases
-build:
-  render: never
-  list: never
-  publishResources: false
+
 date: '2016-03-01'
 publishDate: '2026-04-15T13:39:23.464992Z'
 authors:

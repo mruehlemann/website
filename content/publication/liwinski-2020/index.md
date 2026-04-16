@@ -1,10 +1,6 @@
 ---
 title: A disease‐specific decline of the relative abundance of Bifidobacterium in
   patients with autoimmune hepatitis
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2020-05-01'
 publishDate: '2026-04-15T13:39:14.890258Z'
 authors:

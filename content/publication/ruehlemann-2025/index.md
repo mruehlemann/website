@@ -56,7 +56,9 @@ abstract: 'To what extent gut bacteria respond to the distinct ecological pressu
   phs002205.v1.p1) upon publication of the article. GMbC metagenomes used in this
   study and published in our recent study 6 will be made available at the same dbGaP
   study.'
-featured: ture
+featured: true
+tags:
+- key-publication
 publication: '*bioRxiv*'
 doi: 10.1101/2025.10.20.683395
 links:

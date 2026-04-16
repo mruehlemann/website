@@ -1,7 +1,6 @@
 ---
 title: Fecal glycoprotein 2 is a marker of gut microbiota dysbiosis and systemic inflammation
 date: '2024-10-01'
-draft: true
 publishDate: '2026-04-15T13:39:05.018934Z'
 authors:
 - Fabian Frost

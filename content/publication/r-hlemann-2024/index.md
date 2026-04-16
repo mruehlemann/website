@@ -25,6 +25,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: true
+tags:
+- key-publication
 publication: '*Nature Communications*'
 doi: 10.1038/s41467-023-44636-7
 links:

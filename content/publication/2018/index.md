@@ -1,10 +1,6 @@
 ---
 title: 'Meta-analysis of human genome-microbiome association studies: the MiBioGen
   consortium initiative'
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2018-06-01'
 publishDate: '2026-04-15T13:39:21.208987Z'
 authors:

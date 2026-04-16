@@ -2,7 +2,6 @@
 title: The Fecal Mycobiome in Chronic Pancreatitis Is Characterized by an Increase
   in Candida species and Nakaseomyces
 date: '2025-05-01'
-draft: true
 publishDate: '2026-04-15T13:39:04.542366Z'
 authors:
 - Przemyslaw M. Podgorny

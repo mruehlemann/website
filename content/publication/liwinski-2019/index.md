@@ -1,9 +1,5 @@
 ---
 title: Alterations of the bile microbiome in primary sclerosing cholangitis
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2019-06-01'
 publishDate: '2026-04-15T13:39:15.383471Z'
 authors:

@@ -3,7 +3,6 @@ title: Changes in Periodontal Parameters and Microbiome Composition of Periodont
   Pocket in Patients with Chronic Inflammatory Diseases Receiving Targeted Anti-Cytokine
   Therapy
 date: '2024-09-01'
-draft: true
 publishDate: '2026-04-15T13:39:04.785284Z'
 authors:
 - Juliane Wagner

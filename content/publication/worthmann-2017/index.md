@@ -25,6 +25,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
+tags:
+- key-publication
 publication: '*Nature Medicine*'
 doi: 10.1038/nm.4357
 links:

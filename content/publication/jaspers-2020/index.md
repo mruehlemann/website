@@ -1,10 +1,6 @@
 ---
 title: Differences in the microbiota of native and non-indigenous gelatinous zooplankton
   organisms in a low saline environment
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2020-09-01'
 publishDate: '2026-04-15T13:39:15.891941Z'
 authors:

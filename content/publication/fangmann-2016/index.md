@@ -1,9 +1,5 @@
 ---
 title: Dietary and weight loss effects on human gut microbiome diversity and metabolism
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2016-04-01'
 publishDate: '2026-04-15T13:39:24.223089Z'
 authors:

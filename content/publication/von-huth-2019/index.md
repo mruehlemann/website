@@ -1,10 +1,6 @@
 ---
 title: Minor compositional alterations in faecal microbiota after five weeks and five
   months storage at room temperature on filter papers
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2019-12-01'
 publishDate: '2026-04-15T13:39:18.416448Z'
 authors:

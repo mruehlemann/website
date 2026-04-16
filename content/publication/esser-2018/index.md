@@ -1,9 +1,5 @@
 ---
 title: Functions of the Microbiota for the Physiology of Animal Metaorganisms
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2018-12-01'
 publishDate: '2026-04-15T13:39:17.896240Z'
 authors:

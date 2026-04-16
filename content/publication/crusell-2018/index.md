@@ -1,10 +1,6 @@
 ---
 title: Gestational diabetes is associated with an aberrant gut microbiota during pregnancy
   and postpartum
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2018-08-01'
 publishDate: '2026-04-15T13:39:20.713865Z'
 authors:

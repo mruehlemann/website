@@ -1,7 +1,6 @@
 ---
 title: Detailed stratified GWAS analysis for severe COVID-19 in four European populations
 date: '2022-07-01'
-draft: true
 publishDate: '2026-04-15T13:39:08.212731Z'
 authors:
 - Frauke Degenhardt

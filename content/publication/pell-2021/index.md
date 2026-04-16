@@ -2,7 +2,6 @@
 title: Targeting the cytoplasmic polyadenylation element-binding protein CPEB4 protects
   against diet-induced obesity and microbiome dysbiosis
 date: '2021-12-01'
-draft: true
 publishDate: '2026-04-15T13:39:13.895528Z'
 authors:
 - Nuria Pell

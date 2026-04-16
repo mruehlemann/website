@@ -1,10 +1,6 @@
 ---
 title: IL-22 Paucity in APECED Is Associated With Mucosal and Microbial Alterations
   in Oral Cavity
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2020-05-01'
 publishDate: '2026-04-15T13:39:14.637962Z'
 authors:

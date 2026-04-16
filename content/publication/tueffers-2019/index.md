@@ -1,10 +1,6 @@
 ---
 title: Pseudomonas aeruginosa populations in the cystic fibrosis lung lose susceptibility
   to newly applied β-lactams within 3 days
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2019-07-01'
 publishDate: '2026-04-15T13:39:19.160157Z'
 authors:

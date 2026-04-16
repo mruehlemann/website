@@ -1,7 +1,6 @@
 ---
 title: On the limits of 16S rRNA gene-based metagenome prediction and functional profiling
 date: '2024-02-01'
-draft: true
 publishDate: '2026-04-15T13:39:05.702417Z'
 authors:
 - Monica Steffi Matchado

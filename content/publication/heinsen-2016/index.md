@@ -1,10 +1,6 @@
 ---
 title: Beneficial Effects of a Dietary Weight Loss Intervention on Human Gut Microbiome
   Diversity and Metabolism Are Not Sustained during Weight Maintenance
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2016-01-01'
 publishDate: '2026-04-15T13:39:24.468928Z'
 authors:

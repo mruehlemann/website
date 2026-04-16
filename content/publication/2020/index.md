@@ -1,12 +1,13 @@
 ---
 title: Genomewide Association Study of Severe Covid-19 with Respiratory Failure
-
 date: '2020-10-01'
 publishDate: '2026-04-15T13:39:16.395835Z'
 publication_types:
 - '2'
 abstract: ''
 featured: false
+tags:
+- key-publication
 publication: '*New England Journal of Medicine*'
 doi: 10.1056/nejmoa2020283
 links:

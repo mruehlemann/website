@@ -2,7 +2,6 @@
 title: Short-term physical exercise impacts on the human holobiont obtained by a randomised
   intervention study
 date: '2021-06-01'
-draft: true
 publishDate: '2026-04-15T13:39:13.655099Z'
 authors:
 - Lucas Moitinho-Silva

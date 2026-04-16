@@ -2,7 +2,6 @@
 title: Lower cardiorespiratory fitness is associated with an altered gut microbiome.
   The Study of Health in Pomerania (SHIP)
 date: '2025-02-01'
-draft: true
 publishDate: '2026-04-15T13:39:04.079384Z'
 authors:
 - Marcello Ricardo Paulista Markus

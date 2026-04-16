@@ -2,7 +2,6 @@
 title: P1320 Longitudinal metagenomic profiling reveals early microbial changes during
   infliximab response in IBD.
 date: '2026-01-01'
-draft: true
 publishDate: '2026-04-15T13:39:02.268976Z'
 authors:
 - V A Lopez Agudelo

@@ -3,7 +3,6 @@ title: Key features of the genetic architecture and evolution of host-microbe in
   revealed by high-resolution genetic mapping of the mucosa-associated gut microbiome
   in hybrid mice
 date: '2022-07-01'
-draft: true
 publishDate: '2026-04-15T13:39:08.944674Z'
 authors:
 - Shauni Doms

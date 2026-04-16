@@ -47,6 +47,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
+tags:
+- key-publications
 publication: '*Nature Genetics*'
 doi: 10.1038/ng.3695
 links:

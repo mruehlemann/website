@@ -2,7 +2,6 @@
 title: Network-based quantitative trait linkage analysis of microbiome composition
   in inflammatory bowel disease families
 date: '2023-01-01'
-draft: true
 publishDate: '2026-04-15T13:39:07.720741Z'
 authors:
 - Arunabh Sharma

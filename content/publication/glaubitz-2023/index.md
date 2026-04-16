@@ -2,7 +2,6 @@
 title: Activated regulatory T-cells promote duodenal bacterial translocation into
   necrotic areas in severe acute pancreatitis
 date: '2023-01-01'
-draft: true
 publishDate: '2026-04-15T13:39:06.480533Z'
 authors:
 - Juliane Glaubitz

@@ -1,10 +1,6 @@
 ---
 title: A fungal pathogen induces systemic susceptibility and systemic shifts in wheat
   metabolome and microbiome composition
-build:
-  render: never
-  list: never
-  publishResources: false
 date: '2020-04-01'
 publishDate: '2026-04-15T13:39:15.137107Z'
 authors:

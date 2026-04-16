@@ -1,7 +1,6 @@
 ---
 title: 'Reporting guidelines for human microbiome research: the STORMS checklist'
 date: '2021-11-01'
-draft: true
 publishDate: '2026-04-15T13:39:13.368266Z'
 authors:
 - Chloe Mirzayi

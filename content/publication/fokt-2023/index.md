@@ -2,7 +2,6 @@
 title: Comparative genomics of novel Bacteroides acidifaciens isolates reveals candidates
   for adaptation to host subspecies in house mice
 date: '2023-02-01'
-draft: true
 publishDate: '2026-04-15T13:39:06.965884Z'
 authors:
 - Hanna Fokt

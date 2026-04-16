@@ -74,6 +74,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: true
+tags:
+- key-publication
 publication: '*openRxiv*'
 doi: 10.1101/2025.10.20.683358
 links:
