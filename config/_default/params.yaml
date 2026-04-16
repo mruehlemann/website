@@ -31,28 +31,26 @@ hugoblox:
   # Color and visual design system
   # ────────────────────────────────────────────────────────────────────────────
   theme:
-    # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
-    # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "default"
-    # Optional: Override theme pack colors
     colors:
-      primary: ""                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: ""
-      neutral: ""                       # Affects gray utilities (text-gray-*, bg-gray-*)
-    # Optional: Mode-specific color overrides
-    colors_light: {}
-    colors_dark: {}
-    # Optional: Semantic surface color overrides
+      primary: "#3346A8"
+      secondary: "#7A1E2C"
+    colors_light:
+      background: "#FAF7F0"
+      foreground: "#111827"
+    colors_dark:
+      background: "#0B1020"
+      foreground: "#F8FAFC"
     surfaces:
-      background: ""
-      foreground: ""
+      background: "#FAF7F0"
+      foreground: "#111827"
       header:
-        background: ""
-        foreground: ""
+        background: "#0B1020"
+        foreground: "#F8FAFC"
       footer:
-        background: ""
-        foreground: ""
+        background: "#0B1020"
+        foreground: "#F8FAFC"
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
@@ -89,8 +87,8 @@ hugoblox:
     # Feature toggles
     search: true
     theme_toggle: true
-    theme_picker: true
-    language_switcher: true
+    theme_picker: false
+    language_switcher: false
     # Call-to-action button
     cta:
       enable: false
