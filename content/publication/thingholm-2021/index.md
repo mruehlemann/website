@@ -6,12 +6,12 @@ publishDate: '2026-04-15T13:39:11.131768Z'
 authors:
 - Louise B. Thingholm
 - Corinna Bang
-- Malte C. Rühlemann
+- Malte C. R??hlemann
 - Annika Starke
 - Florian Sicks
 - Verena Kaspari
 - Anabell Jandowsky
-- Kai Frölich
+- Kai Fr??lich
 - Gabriele Ismer
 - Andreas Bernhard
 - Claudia Bombis
@@ -23,7 +23,7 @@ publication_types:
 abstract: ''
 featured: false
 tags:
-- key-publications
+- key-publication
 publication: '*BMC Microbiology*'
 doi: 10.1186/s12866-021-02337-5
 links:

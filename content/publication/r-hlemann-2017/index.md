@@ -1,14 +1,14 @@
 ---
-title: Application of the distance-based F test in an mGWAS investigating β diversity
+title: Application of the distance-based F test in an mGWAS investigating ?? diversity
   of intestinal microbiota identifies variants in SLC9A8 (NHE8) and 3 other loci
 date: '2017-08-01'
 publishDate: '2026-04-15T13:39:19.689174Z'
 authors:
-- Malte C. Rühlemann
+- Malte C. Ruehlemann
 - Frauke Degenhardt
 - Louise B. Thingholm
 - Jun Wang
-- Jurgita Skiecevičienė
+- Jurgita Skiecevi??ien??
 - Philipp Rausch
 - Johannes R. Hov
 - Wolfgang Lieb
@@ -21,7 +21,7 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
-tag:
+tags:
 - key-publication
 publication: '*Gut Microbes*'
 doi: 10.1080/19490976.2017.1356979

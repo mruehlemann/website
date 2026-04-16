@@ -42,24 +42,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a molecular biologist by training and a bioinformatician by practice, studying how microbial communities adapt to host environments and shape health and disease.
+        I am a molecular biologist by training and a bioinformatician by practice. My research focuses on how gut microbial communities evolve, adapt to host environments, and contribute to chronic inflammatory disease.
 
-        I develop and apply tools to investigate the factors involved in host-microbiome interactions, including host and microbial genetics, evolution, diet, and lifestyles.
+        I combine large-scale human metagenomics, microbial genomics, host genetics, and ecological modeling to study host–microbiome systems across human populations and disease contexts. Current work includes international IBD meta-analysis in the EU-funded miGut-Health project, analysis of global human-associated microbiomes through the Global Microbiome Conservancy, and an independent DFG CRC1182 project on the functional consequences of the Prevotella-to-Bacteroides enterotype shift.
 
-        Please reach out to collaborate 😃
+        Methodologically, I work at the interface of microbiome bioinformatics, microbial genomics, pangenome analysis, functional annotation, statistical genetics, and computational ecology.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
   - block: collection
     id: recent
     content:
@@ -72,6 +61,17 @@ sections:
       order: desc
     design:
       view: citation
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
   - block: collection
     id: key-publications
     content:

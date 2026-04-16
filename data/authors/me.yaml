@@ -18,7 +18,7 @@ status:
 role: Postdoctoral Researcher and Project PI
 
 bio: |
-  Malte Rühlemann is a postdoctoral researcher at the Institute of Clinical Molecular Biology, UKSH & CAU Kiel. His research focuses on human host–microbiome systems, microbiome ecology, metagenomics, inflammatory bowel disease, and computational analysis of large-scale microbiome datasets. He is Project PI within the DFG-funded CRC1182 “Origin and Function of Metaorganisms” and leads major data processing and meta-analysis efforts in the EU-funded miGut-Health project.
+  I am a molecular biologist by training and a bioinformatician by practice. My research focuses on how gut microbial communities evolve, adapt to host environments, and contribute to chronic inflammatory disease. I combine large-scale human metagenomics, microbial genomics, host genetics, and ecological modeling to study host–microbiome systems across human populations and disease contexts.
 
 affiliations:
   - name: Institute of Clinical Molecular Biology, UKSH & CAU Kiel
@@ -33,7 +33,7 @@ links:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0685-0052
   - icon: hero/globe-alt
-    url: https://mruehlemann.github.io
+    url: https://www.github.com/mruehlemann
 
 interests:
   - Human microbiome
@@ -65,29 +65,33 @@ experience:
     org: DFG CRC1182 “Origin and Function of Metaorganisms”
     start: 2024-01-01
     summary: |
-      Principal investigator of Project C5.3: “Functional consequence of the Prevotella-to-Bacteroides enterotype shift in the human gut microbiome.”
-  - role: Postdoctoral Researcher w/ Mathieu Groussin & Mathilde Poyet
-    org: Institute of Clinical Molecular Biology, UKSH & CAU Kiel
+      Principal investigator of Project C5.3, “Functional consequence of the Prevotella-to-Bacteroides enterotype shift in the human gut microbiome.”
+
+  - role: Postdoctoral Researcher
+    org: Groussin & Poyet Lab, Institute of Clinical Molecular Biology, UKSH & CAU Kiel
     start: 2023-01-01
     summary: |
-      Research on genomics and functions of host-microbiome systems in the Groussin & Poyet Lab.
+      Research on the genomics and functions of host–microbiome systems, with a focus on large-scale human metagenomics, microbial genomic adaptation, and lifestyle-associated variation in gut microbial communities.
+
   - role: Guest Postdoctoral Researcher
-    org: Hannover Medical School
+    org: Institute for Medical Microbiology and Hospital Epidemiology, Hannover Medical School
     start: 2021-01-01
     summary: |
-      Guest researcher at the Institute for Medical Microbiology and Hospital Epidemiology.
-  - role: Postdoctoral Researcher w/ Andre Franke
-    org: Institute of Clinical Molecular Biology, UKSH & CAU Kiel
+      Guest postdoctoral researcher with Prof. Dirk Schlüter and PD Marius Vital.
+
+  - role: Postdoctoral Researcher
+    org: Genetics & Bioinformatics, Institute of Clinical Molecular Biology, UKSH & CAU Kiel
     start: 2020-01-01
     end: 2022-12-31
     summary: |
-      Postdoctoral research in genetics, bioinformatics, and host-microbiome systems.
+      Postdoctoral research with Prof. Andre Franke on host genetics, microbiome analysis, and inflammatory disease.
+
   - role: Guest Postdoctoral Researcher
-    org: VIB/KU Leuven
+    org: Bioinformatics and (Eco)-Systems Biology Lab, VIB/KU Leuven
     start: 2020-09-01
     end: 2021-02-28
     summary: |
-      Guest researcher at the Bioinformatics and (Eco)-Systems Biology Lab.
+      Guest postdoctoral researcher with Prof. Jeroen Raes.
 
 skills:
   - name: Research
@@ -133,20 +137,47 @@ awards:
   - title: Shortlisted for AI Research Groups Lower Saxony
     awarder: VolkswagenStiftung & Lower Saxony Ministry of Science and Culture
     date: "2026-01-01"
-    summary: Shortlisted for the zukunft.niedersachsen “AI Research Groups Lower Saxony” program.
+    summary: Shortlisted for the zukunft.niedersachsen “AI Research Groups Lower Saxony” program and invited for panel presentation.
     icon: hero/trophy
-  - title: Bruhn Scholarship
+
+  - title: DFG CRC1182 Project PI Funding
+    awarder: Deutsche Forschungsgemeinschaft
+    date: "2024-01-01"
+    summary: PI of CRC1182 subproject C5.3, “Functional consequence of the Prevotella-to-Bacteroides enterotype shift in the human gut microbiome”; subproject funding volume €277,465.
+    icon: hero/currency-euro
+
+  - title: Invited Participant, HUMAN-MICROSTAR Selection Symposium
+    awarder: Helmholtz Centre for Infection Research
+    date: "2024-01-01"
+    summary: Invited participant for the first HUMAN-MICROSTAR selection symposium at HZI Braunschweig.
+    icon: hero/user-group
+
+  - title: Bruhn Foundation Award
     awarder: Bruhn Foundation
     date: "2023-01-01"
-    summary: Förderpreis der Bruhn-Stiftung for early career researchers.
+    summary: Förderpreis der Bruhn-Stiftung for early-career researchers; funding volume €40,000.
     icon: hero/trophy
+
+  - title: DFG Sequencing Call
+    awarder: Deutsche Forschungsgemeinschaft
+    date: "2021-01-01"
+    summary: Sachmittelbeihilfe “Identification of microbiome-host genetics associations using full-length 16S rRNA gene sequencing”; funding volume €364,675.
+    icon: hero/currency-euro
+
   - title: Kiel Life Science Postdoc Award
     awarder: Kiel Life Science
     date: "2020-01-01"
-    summary: Postdoctoral award supporting research activities.
+    summary: Postdoctoral award supporting research activities; funding volume €6,000.
     icon: hero/trophy
+
   - title: CRC1182 Young Investigator Award
     awarder: CRC1182
     date: "2017-01-01"
-    summary: Young investigator award within CRC1182.
+    summary: Young investigator award within CRC1182; funding volume €15,000.
+    icon: hero/trophy
+
+  - title: ZMB Young Scientist Grant
+    awarder: ZMB
+    date: "2017-01-01"
+    summary: Young Scientist Grant for doctoral students; funding volume €10,000.
     icon: hero/trophy

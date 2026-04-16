@@ -7,14 +7,14 @@ authors:
 - David A. Hughes
 - Rodrigo Bacigalupe
 - Jun Wang
-- Malte C. Rühlemann
+- Malte C. Ruehlemann
 - Raul Y. Tito
 - Gwen Falony
 - Marie Joossens
 - Sara Vieira-Silva
 - Liesbet Henckaerts
 - Leen Rymenans
-- Chloë Verspecht
+- Chlo?? Verspecht
 - Susan Ring
 - Andre Franke
 - Kaitlin H. Wade
@@ -24,7 +24,7 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
-tag:
+tags:
 - key-publication
 publication: '*Nature Microbiology*'
 doi: 10.1038/s41564-020-0743-8
